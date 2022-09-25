@@ -1,0 +1,15 @@
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/bin/Debug/net6.0/h_w_z13
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/bin/Debug/net6.0/h_w_z13.deps.json
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/bin/Debug/net6.0/h_w_z13.runtimeconfig.json
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/bin/Debug/net6.0/h_w_z13.dll
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/bin/Debug/net6.0/ref/h_w_z13.dll
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/bin/Debug/net6.0/h_w_z13.pdb
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.csproj.AssemblyReference.cache
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.GeneratedMSBuildEditorConfig.editorconfig
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.AssemblyInfoInputs.cache
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.AssemblyInfo.cs
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.csproj.CoreCompileInputs.cache
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.dll
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/ref/h_w_z13.dll
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.pdb
+/home/lplnt/Dropbox/GeekBrains/Разработчик/Project/C#_seminar/h_work_les2/h_w_z13/obj/Debug/net6.0/h_w_z13.genruntimeconfig.cache
